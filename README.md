@@ -1,7 +1,6 @@
 # Viewdit
 (12/11/17) A video posting platform with channels, voting and comment boards. Think Reddit mixed with YouTube.
 
-=========================================
 12/11/17 @ 3:54pm @drackerdesign
 -----------------------------------------
 Notes:
